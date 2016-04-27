@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./homiliainramosp00miklgoog_0086.png"; bbox 0 0 3398 5118; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 329 1969 1434 2072">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 329 1969 1434 2072">
+     <span class='ocr_line' id='line_1_1' title="bbox 329 1969 1434 2072; baseline -0.005 -21"><span class='ocrx_word' id='word_1_1' title='bbox 329 1971 565 2067; x_wconf 69' lang='grc' dir='ltr'><em>Συναγάγετε</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 599 1969 640 2048; x_wconf 67' lang='grc' dir='ltr'><strong><em>σι’</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 672 1969 963 2069; x_wconf 74' lang='grc' dir='ltr'><strong><em>περισσεύσαντα</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 990 1969 1199 2072; x_wconf 82' lang='grc' dir='ltr'><strong><em>κλάσματα,</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1233 1969 1293 2048; x_wconf 78' lang='grc' dir='ltr'><strong><em>ἵνα</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1321 1970 1374 2068; x_wconf 69' lang='grc' dir='ltr'><strong><em>μα’</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1398 2000 1434 2048; x_wconf 84' lang='grc' dir='ltr'><strong><em>τι</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 332 2105 1432 2460">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 332 2105 1432 2460">
+     <span class='ocr_line' id='line_1_2' title="bbox 534 2105 723 2208; baseline 0 -25"><span class='ocrx_word' id='word_1_8' title='bbox 534 2105 723 2208; x_wconf 77' lang='grc' dir='ltr'><strong><em>ἀπόληταα</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 332 2251 1432 2352; baseline -0.005 -26"><span class='ocrx_word' id='word_1_9' title='bbox 332 2251 535 2350; x_wconf 58' lang='grc' dir='ltr'><strong><em>θασερσσε</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 570 2273 798 2325; x_wconf 64' lang='lat' dir='ltr'><strong>“summu</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 824 2273 1043 2352; x_wconf 65' lang='grc' dir='ltr'><strong><em>ογκρογχα,</em></strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1067 2273 1113 2343; x_wconf 62' lang='grc' dir='ltr'><strong><em>,σα</em></strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1141 2274 1178 2325; x_wconf 80' lang='grc' dir='ltr'><strong><em>σε</em></strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1209 2272 1432 2325; x_wconf 60' lang='grc' dir='ltr'><strong><em>σοσιισσετι.</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 533 2409 736 2460; baseline -0.025 0"><span class='ocrx_word' id='word_1_15' title='bbox 533 2409 736 2460; x_wconf 64' lang='lat' dir='ltr'><strong><em>ammom.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1704 5118">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1704 5118">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1704 5118; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1704 5118; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
